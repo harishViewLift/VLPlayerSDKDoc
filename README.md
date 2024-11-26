@@ -11,6 +11,7 @@ Step 2 - replace build.gradle of new Module file content with below data
 `
 configurations.maybeCreate("default")
 artifacts.add("default", file("vlplayer-2.4.6.aar"))
+`
 
 <img width="567" alt="Screenshot 2024-11-26 at 8 21 37 AM" src="https://github.com/user-attachments/assets/a216b37d-42bf-4487-b745-801c9316b585">
 
