@@ -20,7 +20,7 @@ Step 3 - Sync the project with new Module
 implementation(project(":vlplayer"))
 `
 
-Pass Response to VLPlayer
+To play Video directly with URL, Pass Video Response to VLPlayer SDK
 
 https://gist.github.com/harishViewLift/4b26f85b854cc736c65c3c0fc8db44e2
 
